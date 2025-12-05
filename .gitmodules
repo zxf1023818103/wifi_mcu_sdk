@@ -1,0 +1,9 @@
+[submodule "component/FreeRTOS-Kernel"]
+	path = component/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "component/lwip"]
+	path = component/lwip
+	url = https://github.com/lwip-tcpip/lwip
+[submodule "component/mbedtls"]
+	path = component/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls
